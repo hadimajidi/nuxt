@@ -30,54 +30,5 @@
 
 </script>
 <style scoped>
-/* .logoholder{
-	width: 32px;
-    height: 32px;
-} */
-	.st0{fill:#FFFF00;}
-	.st1{fill:none;stroke:#E20613;stroke-width:20;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#1D1D1B;stroke-width:30;stroke-miterlimit:10;}
-	svg, #wave, #wave2, #wave3, #wave4{
-  transition: all 4s ease-in-out;
-}
-#wave2{
-  transform: translateX(339px);
-}
 
-#wave3{
-  transform: translateX(678px);
-}
-
-#wave4{
-  transform: translateX(1017px);
-}
-#wave2{
-  transform: translateX(339px);
-}
-
-#wave3{
-  transform: translateX(678px);
-}
-
-#wave4{
-  transform: translateX(1017px);
-}
-header:hover svg{
-  filter: drop-shadow(3px 5px 2px rgb(0 0 0/.4));
-}
-header:hover #wave{
-  transform: translateX(-1017px);
-}
-
-header:hover #wave2{
-  transform: translateX(-678px);
-}
-
-header:hover #wave3{
-  transform: translateX(-339px);
-}
-
-header:hover #wave4{
-  transform: translateX(0);
-}
 </style>
